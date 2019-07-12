@@ -1,1 +1,1 @@
-<p> pukyu </p>
+<a href="ayam.com" class="btn btn-primary" role="button">Kesini Euy!</a>
